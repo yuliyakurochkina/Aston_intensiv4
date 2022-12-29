@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Clock">
+        <attr name="clockRingColor" format="dimension" />
+        <attr name="clockRingWidth" format="dimension" />
+        <attr name="secondPointWidth" format="dimension" />
+        <attr name="secondPointLength" format="dimension" />
+        <attr name="fiveSecondPointWidth" format="dimension" />
+        <attr name="fiveSecondPointLength" format="dimension" />
+        <attr name="hourHandWidth" format="dimension" />
+        <attr name="minuteHandWidth" format="dimension" />
+        <attr name="secondHandWidth" format="dimension" />
+        <attr name="circleColor" format="color" />
+        <attr name="hourHandColor" format="color" />
+        <attr name="minuteHandColor" format="color" />
+        <attr name="secondHandColor" format="color" />
+        <attr name="numbersColor" format="color" />
+    </declare-styleable>
+</resources>
